@@ -1,5 +1,5 @@
 {
-  "name": "webprogramming",
+  "name": "git-tutorial",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,18 +8,10 @@
     "build": "vite build",
     "preview": "vite preview"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/chak24062-pixel/webprogramming.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/chak24062-pixel/webprogramming/issues"
-  },
-  "homepage": "https://github.com/chak24062-pixel/webprogramming#readme",
   "devDependencies": {
-    "vite": "^7.3.1"
+    "vite": "^4.4.11"
   }
 }
